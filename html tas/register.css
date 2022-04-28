@@ -1,0 +1,45 @@
+form{
+    background-color: #fff;
+            max-width: 700px;
+            margin: 50px auto;
+            padding: 30px 20px;
+            box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+            font-style:normal;
+}
+
+.button{
+    background-color: rgb(10, 55, 138);
+    width: 360px;
+    color: white;
+}
+form-textbox   {
+    box-sizing: border-box;
+    max-width: initial
+}
+.regis:after {
+    content:" *";
+    color: red;
+  
+}
+.blok{
+    width: 68%;
+    
+}
+input{
+    height: 40px;
+   
+}
+
+.div{
+    padding: 3px;
+    font-style: italic;
+}
+h1{
+    text-align: center;
+
+}
+.box{
+    height: 47px;
+    width: 35%;
+}
+   
