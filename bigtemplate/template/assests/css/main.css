@@ -1,0 +1,14 @@
+header .navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+header .navbar div {
+  margin: 20px;
+}
+
+header .navbar .image {
+  margin-right: 70px;
+}
+/*# sourceMappingURL=main.css.map */

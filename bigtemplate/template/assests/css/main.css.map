@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AACI,MADE,CACF,OAAO,CAAA;EACH,OAAO,EAAE,IAAI;CAOhB;;AATL,AAGQ,MAHF,CACF,OAAO,CAEH,GAAG,CAAA;EACC,MAAM,EAAE,IAAI;CACf;;AALT,AAMQ,MANF,CACF,OAAO,CAKH,MAAM,CAAA;EACF,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/pages/_home.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
