@@ -1,0 +1,10 @@
+.allcart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 30px;
+    img{
+        width: 200px;
+        height: 300px;
+    }
+}
