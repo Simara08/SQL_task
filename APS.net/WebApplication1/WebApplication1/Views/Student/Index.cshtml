@@ -1,0 +1,16 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+<html>
+<body>
+        <ul>
+            @foreach (var stu in ViewBag.model)
+            {
+                <li>Id: @stu.Studentid  Name: @stu.Studentname  Age:@stu.Studentage</li>
+            }
+        </ul>
+</body>
+</html>
